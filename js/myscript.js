@@ -3,8 +3,17 @@
 
 var nome, cognome, colorePreferito;
 
+// nome
 nome = prompt('Inserisci il tuo nome:');
 
+// console.log(nome);
+
+// cognome
 cognome = prompt('Inserisci il tuo cognome:');
 
+// console.log(cognome);
+
+// colore preferito
 colorePreferito = prompt('Inserisci il tuo colore preferito:');
+
+// console.log(colorePreferito);
