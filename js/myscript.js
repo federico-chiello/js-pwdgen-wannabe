@@ -17,3 +17,6 @@ cognome = prompt('Inserisci il tuo cognome:');
 colorePreferito = prompt('Inserisci il tuo colore preferito:');
 
 // console.log(colorePreferito);
+
+// Inserimento nomecognomecolorepreferito20
+document.getElementById('testo').innerHTML = nome + cognome + colorePreferito + '20';
